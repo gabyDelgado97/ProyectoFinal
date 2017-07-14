@@ -1,0 +1,15 @@
+Borrado_Logico;Nombre_Tabla;Numero_Campos;Campos;Campo_Clave;Longitud_Campos;Encriptado
+0;tabla1;3;id,apellido,nombre;id;12,15,67;T,F,T
+0;tabla;5;DNI,NOMBRE,BOOLEAN,FECHA,String;DNI;40,50,30,56,78;NOMBRE,FECHA,String
+0;ULTIMA;5;Campo_Clave,Campo2,Campo3,Campo4,Fecha;Campo_Clave;6,5,5,5,10;F,F,F,F,F
+0;NUEVA;5;codigo,sector,nombre,casado,nacimiento;codigo;6,5,5,5,10;F,F,F,F,F
+0;NUEVA2;5;codigo,sector,nombre,casado,nacimiento;codigo;6,5,5,5,10;F,F,F,F,F
+1;penes6;2;campo1,campo2;campo1;50,50;campo1
+1;penes4;2;campo1,campo2;campo1;50,50;campo1
+1;penes3;2;campo1,campo2;campo1;50,50;campo1
+1;penes13;2;campo1,campo2;campo1;50,50;campo1
+1;penes11;2;campo1,campo2;campo1;50,50;campo1
+1;penes10;2;campo1,campo2;campo1;50,50;campo1
+0;PERROS;5;Campo_Clave,Campo2,Campo3,Campo4,Fecha;Campo_Clave;6,5,5,5,10;F,F,F,F,F
+0;Original;5;DNI,NOMBRE,BOOLEAN,FECHA,String;DNI;30,40,50,60,89;DNI,String
+0;Nombre_Tabla;5;DNI,Nombre,Boolean,Fecha,String;DNI;10,10,5,10,15;F,F,F,F,F
